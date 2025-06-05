@@ -5,6 +5,7 @@ public class Main {
 		ACMEJogos acmeJogos = new ACMEJogos();
 		acmeJogos.executar();
 		acmeJogos.inicializar();
+
 	}
 
 }
